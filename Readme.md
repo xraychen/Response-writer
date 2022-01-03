@@ -80,11 +80,11 @@ You can install manually by youself. Here, we provide a conviencent shell script
 In Stage 1, We have had json file, so we need to do preprocessing and store feature to do conversational question answering.
 You can directly run the well-written short script to get CoQA, DoQA, QuAC dataset preprocessing.
 
-`bash short_script/extract_coqa_feature.sh`
+`bash short_scripts/extract_coqa_feature.sh`
 
-`bash short_script/extract_doqa_feature.sh`
+`bash short_scripts/extract_doqa_feature.sh`
 
-`bash short_script/extract_quac_feature.sh`
+`bash short_scripts/extract_quac_feature.sh`
 
 ## __Stage 2: Train & Evaluate your Model__
 
